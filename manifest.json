@@ -1,0 +1,20 @@
+{
+  "name": "Pomodoro Timer",
+  "version": "1.0",
+  "description": "An extension for users to have a pomodoro timer built into their browser for staying focused and being efficient.",
+  "manifest_version": 2,
+  "author": "Pratham Vijh",
+  "icons": {
+    "16": "",
+    "48": "",
+    "128": ""
+  },
+  "page_action": {
+    "default_icon": {
+      "16": "",
+      "48": "",
+      "128": ""
+    }
+  },
+  "content_scripts": [{}]
+}
